@@ -14,3 +14,5 @@ Georgia Tech students can join the Canvas course [here](https://gatech.instructu
 | 5 | Energy and Chemistry |
 | 6 | Drawing and Interpreting Lewis Structures |
 | 7 | Succeeding in College Chemistry |
+
+## [Lecture Videos](https://www.youtube.com/playlist?list=PLykBd3LSjfsQB8HIeiV66YP4Y0i55FqIb)
