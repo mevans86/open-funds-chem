@@ -16,4 +16,4 @@ Georgia Tech students can join the Canvas course [here](https://gatech.instructu
 | 7 | Succeeding in College Chemistry |
 
 ## [Lecture Videos](https://www.youtube.com/playlist?list=PLykBd3LSjfsQB8HIeiV66YP4Y0i55FqIb)
-Note that this playlist is a work in progress, and will continue to be updated throughout Fall 2025.
+Note that this playlist is a work in progress, and will continue to be updated as I find time to record the remaining lecture videos.
