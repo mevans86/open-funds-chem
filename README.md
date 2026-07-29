@@ -15,5 +15,5 @@ Georgia Tech students can join the Canvas course [here](https://gatech.instructu
 | 6 | Drawing and Interpreting Lewis Structures |
 | 7 | Succeeding in College Chemistry |
 
-## [Lecture Videos](https://www.youtube.com/playlist?list=PLykBd3LSjfsQB8HIeiV66YP4Y0i55FqIb)
-Click the link above to access a playlist containing all the lecture videos for the course (finally finished in July 2026!).
+## Lecture Videos
+A [YouTube playlist](https://www.youtube.com/playlist?list=PLykBd3LSjfsQB8HIeiV66YP4Y0i55FqIb) of all the lecture videos is available. If you're not a fan of advertisements (and honestly, who is?), the lecture videos can also be found in the [publicly available Canvas course](https://gatech.instructure.com/courses/487958).
